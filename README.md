@@ -3,7 +3,6 @@
 Python simulation suite for the paper:
 
 > **"A Multi-Dimensional Semantic Metric Standardization Framework for Evaluating AI-Native Systems in 6G Networks"**
-> IEEE — proposed submission
 
 ---
 
@@ -92,12 +91,9 @@ Proposed timeline: Release 20 (2025–2026) foundational Study Items → Release
 ## Repository Structure
 
 ```
-SemmMetricsFr/
-├── Framework_Semanticas_Summary_IEEE.md  # Full article (16 sections, 73+ IEEE references)
+6GSemmMetricFramwork/
 ├── simulate_semantic_metrics.py          # Simulation script reproducing all article figures/tables
 ├── plot_results.py                       # Generates PNG figures from simulation_results/
-├── measurement_algorithms.md            # Pseudocode and complexity for all 16 measurement algorithms
-├── complexity_channels_analysis.md      # Detailed channel model and complexity analysis
 ├── simulation_results/                   # Saved .npz numerical results (auto-created on first run)
 │   ├── results_k8.npz
 │   ├── results_k16.npz
@@ -373,10 +369,10 @@ M_composite = min_i (M_i / M_i^threshold)  (safety-critical, conjunction-type)
 If you use this framework or simulation code in your research, please cite:
 
 ```bibtex
-@article{semmetrics2024,
+@article{semmetrics2026,
   title   = {A Multi-Dimensional Semantic Metric Standardization Framework
              for Evaluating AI-Native Systems in 6G Networks},
   journal = {IEEE},
-  year    = {2024},
+  year    = {2026},
 }
 ```
