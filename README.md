@@ -1,4 +1,4 @@
-# Simulation campaign of the round-1 revision (futureinternet-4684256)
+# A Multi-Dimensional Semantic Metric Standardization Framework for Evaluating AI-Native Systems in 6G Networks
 
 One seed-controlled campaign produces every number of the revised Section 11.
 The authors' original code is kept unchanged in `original/` for reference; the
