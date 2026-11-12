@@ -1,0 +1,11 @@
+{
+ "oracle_acc_in_sample": 1.0,
+ "oracle_acc_fresh": 0.3750999867916107,
+ "bayes_acc_fresh": 0.6736000180244446,
+ "tsr_k32_awgn_0db_in_sample": 0.3869999945163727,
+ "tsr_k32_awgn_10db_in_sample": 0.8814000010490417,
+ "tsr_k32_awgn_20db_in_sample": 0.9986000061035156,
+ "tsr_k32_awgn_0db_fresh": 0.18684000074863433,
+ "tsr_k32_awgn_10db_fresh": 0.2547400057315826,
+ "tsr_k32_awgn_20db_fresh": 0.269539999961853
+}
